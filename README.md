@@ -10,3 +10,5 @@ Sample Resume : https://codepen.io/DeepS/pen/DLyZam
 Day 1 Assements : https://forms.gle/3W5rEAerQcD12U8x6
 ---
 Day 2 Assements : https://forms.gle/X2M37c5yHfbJ4imf7
+---
+Guvi Student Feedback : https://docs.google.com/forms/d/1zOvEMQjUvkSF-DBOKir6iVRDZXmE-cNSzppWM5bvhrE/edit
